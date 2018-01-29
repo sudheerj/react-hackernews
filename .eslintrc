@@ -1,0 +1,15 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "ecmaFeatures": {
+    "jsx": true
+  },
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "semi": 2
+  }
+}
